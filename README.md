@@ -18,7 +18,7 @@ Plan for adding/improving to Blackdot classic
 - [] Fluid simulation
 - [] Advanced 3D painting
 - [] New NPR shading
-- [] 3D Rendending : My own renderer (RenderTeen)
+- [] 3D Rendending : My own renderer (RedFish)
 - [] Cloth system
 - [] Soft and rigid body system
 - [] Support to AngelScript
